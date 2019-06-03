@@ -21,7 +21,7 @@ public class Main extends Application {
 	public void start(Stage primaryStage) {
 		try {
 			this.rootStage = primaryStage;
-	        this.rootStage.setTitle("PASSION is a continuous preparation");
+	        this.rootStage.setTitle("재준 is a continuous preparation");
 	        
 			loadMainBoderPane();
 			loadMemberAnchorPane();			
